@@ -1,6 +1,6 @@
 # Installation of modules
-bash
-```
+
+```bash
 py -3.12 -m pip install -r requirements.txt
 ```
 
